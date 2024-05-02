@@ -4,5 +4,5 @@ seaborn
 nltk
 spacy
 streamlit
-pickle5
+pickle
 scikit-learn
