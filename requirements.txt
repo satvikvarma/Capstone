@@ -1,4 +1,4 @@
-json
+json==5.0
 numpy
 pandas
 seaborn
