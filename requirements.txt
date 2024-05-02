@@ -1,10 +1,8 @@
 numpy
 pandas
 seaborn
-re
 nltk
 spacy
-string
 streamlit
-pickle
+pickle5
 sklearn
