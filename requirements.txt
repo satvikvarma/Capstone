@@ -3,7 +3,6 @@ pandas
 seaborn
 nltk
 spacy
-string
 streamlit
 pickle
 sklearn
