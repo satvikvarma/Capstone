@@ -4,5 +4,4 @@ seaborn
 nltk
 spacy
 streamlit
-pickle
 scikit-learn
