@@ -5,4 +5,4 @@ nltk
 spacy
 streamlit
 pickle5
-sklearn
+scikit-learn
