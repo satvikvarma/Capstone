@@ -1,7 +1,6 @@
 numpy
 pandas
 seaborn
-re
 nltk
 spacy
 string
